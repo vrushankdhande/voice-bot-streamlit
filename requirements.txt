@@ -2,3 +2,6 @@ streamlit==1.32.0
 audio-recorder-streamlit==0.0.10
 SpeechRecognition==3.10.1
 gtts==2.5.1
+build-essential
+libjpeg-dev
+zlib1g-dev
